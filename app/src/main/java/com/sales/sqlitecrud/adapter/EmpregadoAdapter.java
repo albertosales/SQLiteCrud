@@ -1,4 +1,4 @@
-package com.sales.sqlitecrud;
+package com.sales.sqlitecrud.adapter;
 
 import android.content.Context;
 import android.content.DialogInterface;
@@ -16,6 +16,9 @@ import android.widget.EditText;
 import android.widget.Spinner;
 import android.widget.TextView;
 import android.widget.Toast;
+
+import com.sales.sqlitecrud.R;
+import com.sales.sqlitecrud.dao.Empregado;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package com.sales.sqlitecrud;
+package com.sales.sqlitecrud.dao;
 
 /**
  * Created by AlbertoSales on 8/30/2018.

@@ -6,6 +6,9 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.widget.ListView;
 
+import com.sales.sqlitecrud.dao.Empregado;
+import com.sales.sqlitecrud.adapter.EmpregadoAdapter;
+
 import java.util.ArrayList;
 import java.util.List;
 
